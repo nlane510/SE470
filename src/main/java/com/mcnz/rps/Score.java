@@ -8,7 +8,7 @@ public class Score {
 		wins++;
 	}
 	public void increaseLosses(){
-		losses--;
+		losses++;
 	}
 	public void increaseTies(){
 		ties++;
